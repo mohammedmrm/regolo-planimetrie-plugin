@@ -1,0 +1,22 @@
+{
+    "url_documento_ident": "https://yd.ws.geniodiligence.it/documenti/354aa817-b754-4b60-a04f-4acea8b45bb3",
+    "url_delega": "https://yd.ws.geniodiligence.it/documenti/8d23b807-58ac-4e37-9af1-160b3c51f876",
+    "foglio": "196",
+    "particella": "420",
+    "subalterno": "16",
+    "sezione_urbana": "",
+    "comune": {
+        "codice_catastale": "E506",
+        "nome": "LECCE"
+    },
+    "provincia": {
+        "sigla": "LE",
+        "nome": "Lecce"
+    },
+    "cf_piva_richiedente": "DGNGLC74H19E506H",
+    "richiedente": "GIANLUCA DE GENNARO",
+    "ticket": "4916436b-f9e8-484e-8612-398d3ebc3394",
+    "data_richiesta": "2024-01-11 11:20:44",
+    "data_evasione": null,
+    "stato": "aperta"
+}

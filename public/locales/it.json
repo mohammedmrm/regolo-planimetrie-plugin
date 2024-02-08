@@ -1,0 +1,80 @@
+{
+  "lang": "it",
+  "dashboard": {
+    "title": "Elenco Planimetrie"
+  },
+  "errors": {
+    "generic": "Errore generico",
+    "signin": "login failed",
+    "permission": "Errore: Autorizzazione negata. Non disponi delle autorizzazioni di scrittura necessarie per eseguire questa azione",
+    "auth": "Si è verificato un errore. Prova a ricaricare la pagina.",
+    "GD00500": "Errore generico",
+    "GD1000": "Tornare indietro non è una selezione automatica",
+    "GD1001": "Contatta l'amministratore admin",
+    "GD1002": "Contatta l'amministratore admin",
+    "GD1003": "Contatta l'amministratore admin",
+    "GD2001": "Riprova",
+    "GD3001": "dati non validi inseriti",
+    "GD00317": "Nessun lavoro trovato",
+    "GDSR003": "Il token di assegnazione è scaduto",
+    "GD00508": "Nessun account SSO identificato",
+    "GD00400": "Non autorizzato",
+    "GD00401": "Sessione utente scaduta"
+  },
+  "loadings": {
+    "generic": "in corso...",
+    "login": "Autenticazione in corso ...",
+    "logout": "disconnessione ...",
+    "jobs": "caricamento in corso ...",
+    "job": "caricamento in corso ...",
+    "sidebar_page": "in corso ...",
+    "waiting_job": "Non ci sono compiti disponibili al momento. La pagina caricherà automaticamente quando verrà assegnato un nuovo compito."
+  },
+  "jobs": {
+    "operations": {
+      "test": {
+        "human_loop": {
+          "fake_req": "Fake job",
+          "fake_req2": "Fake job 2"
+        }
+      },
+      "ml": {
+        "hl": {
+          "bounding_box": "Bounding box",
+          "page_group": "Page Group",
+          "page_tag": "Page tag",
+          "data_amend": "Imputazione Dati"
+        }
+      }
+    },
+    "states": {
+      "a": "Bozza",
+      "c": "Completato",
+      "s": "In pausa",
+      "d": "Consegnato",
+      "u": "Da assegnare"
+    },
+    "filter": {
+      "created_from": "Creato da",
+      "created_to": "Creato al",
+      "assigned_from": "Assegnato da",
+      "assigned_to": "Assegnato al",
+      "assigned": "Assegnato?",
+      "search": "Ricerca",
+      "clear": "Clear"
+    },
+    "botton": {
+      "work": "Lavora",
+      "resume": "Riprendi"
+    },
+    "table": {
+      "col": {
+        "id": "Job ID",
+        "operation": "Operazione",
+        "status": "Status",
+        "date": "Data",
+        "actions": "Azioni"
+      }
+    }
+  }
+}

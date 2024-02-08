@@ -1,0 +1,125 @@
+{
+    "planimetrie": [
+        {
+            "ticket": "716cfb69-341e-4140-bd4b-16b7c931b1da",
+            "richiedente": "Gianfranco Accardo",
+            "comune": "ROCCA DI PAPA (RM)",
+            "foglio": "32",
+            "particella": "33",
+            "subalterno": "2",
+            "data_richiesta": "2022-03-03 11:11:25",
+            "data_evasione": "2022-03-04 12:55:01",
+            "stato": "evasa",
+            "sezione_urbana": null
+        },
+        {
+            "ticket": "485a7117-aca2-4b4f-9460-4603341d0d50",
+            "richiedente": "ANITA BARRAL",
+            "comune": "ROURE (TO)",
+            "foglio": "49",
+            "particella": "1011",
+            "subalterno": "7",
+            "data_richiesta": "2022-10-08 07:32:31",
+            "data_evasione": "2022-10-08 07:48:35",
+            "stato": "evasa",
+            "sezione_urbana": null
+        },
+        {
+            "ticket": "00999e89-d7c9-4c5d-9ca2-a6d9bec1acb9",
+            "richiedente": "Liviana Dalfra'",
+            "comune": "MANTOVA (MN)",
+            "foglio": "36",
+            "particella": "134",
+            "subalterno": "312",
+            "data_richiesta": "2022-10-20 14:04:36",
+            "data_evasione": "2022-10-20 14:51:18",
+            "stato": "evasa",
+            "sezione_urbana": null
+        },
+        {
+            "ticket": "b4243634-e83c-4e32-a62d-4b55389518f6",
+            "richiedente": "GIUSI ALESSANDRA PAGANA",
+            "comune": "GIARDINI-NAXOS (ME)",
+            "foglio": "6",
+            "particella": "648",
+            "subalterno": "35",
+            "data_richiesta": "2022-03-31 07:50:59",
+            "data_evasione": "2022-04-01 05:41:53",
+            "stato": "evasa",
+            "sezione_urbana": null
+        },
+        {
+            "ticket": "3ee834e5-15fe-4c60-a9f4-0f80afc84ab5",
+            "richiedente": "alessandra vitali",
+            "comune": "LISSONE (MI)",
+            "foglio": "17",
+            "particella": "60",
+            "subalterno": "705",
+            "data_richiesta": "2022-03-31 09:07:43",
+            "data_evasione": "2022-04-01 05:42:46",
+            "stato": "evasa",
+            "sezione_urbana": null
+        },
+        {
+            "ticket": "9c1b07e3-9e32-4df9-b3ab-a46a284ee6aa",
+            "richiedente": "maurizio piscitello",
+            "comune": "VALMOREA (CO)",
+            "foglio": "4",
+            "particella": "351",
+            "subalterno": "28",
+            "data_richiesta": "2022-10-10 07:56:27",
+            "data_evasione": "2022-10-10 08:39:07",
+            "stato": "non_evadibile",
+            "sezione_urbana": "cas"
+        },
+        {
+            "ticket": "111ddca5-f1dc-42c7-9cbe-7201af15872a",
+            "richiedente": "laura nicolis",
+            "comune": "SAN PIETRO IN CARIANO (VR)",
+            "foglio": "5",
+            "particella": "1074",
+            "subalterno": "4",
+            "data_richiesta": "2022-10-10 07:07:46",
+            "data_evasione": "2022-10-10 08:50:30",
+            "stato": "evasa",
+            "sezione_urbana": null
+        },
+        {
+            "ticket": "b38496a7-1f50-4c3b-9b5d-b44b81beecfd",
+            "richiedente": "ADELIO PODAVINI",
+            "comune": "GAVARDO (BS)",
+            "foglio": "28",
+            "particella": "2308",
+            "subalterno": "1",
+            "data_richiesta": "2022-10-10 09:32:17",
+            "data_evasione": "2022-10-10 10:33:04",
+            "stato": "evasa",
+            "sezione_urbana": "NCT"
+        },
+        {
+            "ticket": "a15a96f4-a9b1-42a3-a193-a1e9cc12b7ab",
+            "richiedente": "ADELIO PODAVINI",
+            "comune": "GAVARDO (BS)",
+            "foglio": "28",
+            "particella": "2308",
+            "subalterno": "4",
+            "data_richiesta": "2022-10-10 09:36:40",
+            "data_evasione": "2022-10-10 10:33:28",
+            "stato": "evasa",
+            "sezione_urbana": "NCT"
+        },
+        {
+            "ticket": "d03d339b-68cb-4098-b8a7-101db4d097d4",
+            "richiedente": "ADELIO PODAVINI",
+            "comune": "GAVARDO (BS)",
+            "foglio": "28",
+            "particella": "2308",
+            "subalterno": "5",
+            "data_richiesta": "2022-10-10 09:38:38",
+            "data_evasione": "2022-10-10 10:33:35",
+            "stato": "evasa",
+            "sezione_urbana": "NCT"
+        }
+    ],
+    "total_count": 14302
+}

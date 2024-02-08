@@ -1,0 +1,80 @@
+{
+  "lang": "en",
+  "dashboard": {
+    "title": "List of floor plans"
+  },
+  "errors": {
+    "generic": "Generic error",
+    "signin": "login failed",
+    "permission": "Error: Permission denied. You do not have the necessary write permissions to perform this action",
+    "auth": "An error occurred. Try reloading the page.",
+    "GD00500": "Generic error",
+    "GD1000": "Go back is not autmatic seletction",
+    "GD1001": "Contatta l'amministratore admin",
+    "GD1002": "Contatta l'amministratore admin",
+    "GD1003": "Contatta l'amministratore admin",
+    "GD2001": "Riprova",
+    "GD3001": "dati non validi inseriti",
+    "GD00317": "No job found",
+    "GDSR003": "Assignment token has been expired",
+    "GD00508": "No logged user",
+    "GD00400": "Unauthorized",
+    "GD00401": "User session expired"
+  },
+  "loadings": {
+    "generic": "Loading...",
+    "login": "Authentication in progress ...",
+    "logout": "logging out ...",
+    "jobs": "Loading jobs ...",
+    "job": "Loadding job...",
+    "sidebar_page": "Loadding ...",
+    "waiting_job": "No duties available. The page will automatically load when a new duty is assigned"
+  },
+  "jobs": {
+    "operations": {
+      "test": {
+        "human_loop": {
+          "fake_req": "Fake job",
+          "fake_req2": "Fake job 2"
+        }
+      },
+      "ml": {
+        "hl": {
+          "bounding_box": "Bounding box",
+          "page_group": "Page Group",
+          "page_tag": "Page tag",
+          "data_amend": "Data Amending"
+        }
+      }
+    },
+    "states": {
+      "a": "Draft",
+      "c": "Complete",
+      "s": "Suspended",
+      "d": "Delivered",
+      "u": "Unassigned"
+    },
+    "filter": {
+      "created_from": "Created from",
+      "created_to": "Created to",
+      "assigned_from": "Created from",
+      "assigned_to": "Created to",
+      "assigned": "Assigned?",
+      "search": "Search",
+      "clear": "Clear"
+    },
+    "botton": {
+      "work": "Work",
+      "resume": "resume"
+    },
+    "table": {
+      "col": {
+        "id": "Job ID",
+        "operation": "Operation",
+        "status": "Status",
+        "date": "Date",
+        "actions": "Actions"
+      }
+    }
+  }
+}
